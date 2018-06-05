@@ -1,2 +1,0 @@
-# testjenkins.yanghao
-test
